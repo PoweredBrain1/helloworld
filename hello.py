@@ -2,5 +2,5 @@
 import time
 
 name = input ("Whats' your name? ")
-print("Hello World "+ name + "! Nice to meet you!")
+print("Hello World " + name + "! Nice to meet you!")
 time.sleep(60)
